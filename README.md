@@ -11,5 +11,3 @@ To use icon with **id** `icon-global` you can use below code
   <use xlink:href="img/sprite.svg#icon-global"></use>
 </svg>
 ```
-
-## Font family
